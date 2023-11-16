@@ -1,4 +1,4 @@
-# The-Bruite-Force
+# The-Brute-Force
 Welcome to BruteForce-CPP, a repository dedicated to exploring and demonstrating Brute Force algorithms using C++. 
 This collection is perfect for students, educators, and programming enthusiasts interested in understanding the 
 fundamentals and applications of brute force approaches in problem-solving.
